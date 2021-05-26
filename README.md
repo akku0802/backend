@@ -4,13 +4,13 @@ This project is broken up into a backend and frontend. The backend contains the 
 
 Run the following commands to get started:
 
-`virtualenv env`
-`pip install -r requirements.txt`
-`cd frontend`
-`npm run build`
-`cd .`
-`python manage.py make`  
-`python manage.py makemigrations` 
-`python manage.py migrate `
-`python manage.py runserver`
+`virtualenv env`<br />
+`pip install -r requirements.txt`<br />
+`cd frontend`<br />
+`npm run build`<br />
+`cd .`<br />
+`python manage.py make` <br />
+`python manage.py makemigrations` <br />
+`python manage.py migrate `<br />
+`python manage.py runserver`<br />
 
