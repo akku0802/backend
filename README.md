@@ -9,7 +9,6 @@ Run the following commands to get started:
 `cd frontend`<br />
 `npm run build`<br />
 `cd .`<br />
-`python manage.py make` <br />
 `python manage.py makemigrations` <br />
 `python manage.py migrate `<br />
 `python manage.py runserver`<br />
